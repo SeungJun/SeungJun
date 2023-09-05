@@ -34,7 +34,8 @@
 
 ## 📽  프로젝트
 
-- [MukJa]: [숙박, 맛집 위주의 여행 공유 서비스]
+- [MukJa](https://github.com/Team-MukJa/MukJa): 숙박, 맛집 위주의 여행 공유 서비스
+- [꽃향기](https://github.com/SeungJun/kkoch) : 온라인 화훼 경매 서비스
 
 <br/>
 <br/>
